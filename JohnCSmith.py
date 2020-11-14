@@ -2,7 +2,8 @@ from selenium import webdriver
 import requests
 from bs4 import BeautifulSoup
 import time
-import csv
+
+#test
 
 #configure selenium webdriver
 #options = webdriver.ChromeOptions()
